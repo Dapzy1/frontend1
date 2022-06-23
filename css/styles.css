@@ -1,0 +1,83 @@
+body{
+  background-image: url(file:///C:/Users/TIMI/Pictures/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 94%);
+  text-align: center;
+  margin: auto auto auto auto;
+
+}
+.Change{
+  position: absolute;
+  right: 530px;
+  bottom: 120px;
+  text-decoration: underline;
+  color: hsl(245, 75%, 52%);
+}
+.Order{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.plan-2body{
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.plan-2{
+  background-color: hsl(245, 75%, 52%);
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  box-shadow: 5px 5px hsl(225, 100%, 94%);
+}
+.plan-2:hover{
+  background-color: blue;
+}
+.note{
+  padding-left: 75px;
+  padding-right: 75px;
+}
+.w{
+  color: black;
+}
+.music{
+  float: left;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.hero{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.content{
+  border-radius: 10px;
+  width: 450px;
+  margin: 80px auto 120px auto;
+  background-color: white;
+  height: auto;
+}
+.plan{
+  background-color:  hsl(225, 100%, 98%);
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.plan-body{
+  text-align: left;
+  padding-left: 15px;
+}
+h1{
+}
+h3{
+  width: auto;
+}
+p{
+  text-align: center;
+  font-size: 16px;
+  color: grey;
+}
